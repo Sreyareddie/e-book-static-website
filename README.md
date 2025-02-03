@@ -1,4 +1,4 @@
 # e-book-static-website
-This is a static e-booe website using only
+This is a static e-book website using only
 =>HTML
 =>CSS
